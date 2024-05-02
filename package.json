@@ -1,0 +1,20 @@
+{
+  "name": "sistema_de_controle",
+  "version": "1.0.0",
+  "description": "<h1>Projeto Final - Sistema de Controle de licença de clientes</h1>",
+  "main": "crud-API.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "firebase-admin": "^12.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
